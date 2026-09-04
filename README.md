@@ -58,20 +58,10 @@ The project follows a **layered data architecture** where data moves through mul
 
 ### 📐 Project Architecture
 
-> **Replace the placeholder below with your architecture diagram.**
-
-```text
-📌 ADD PROJECT ARCHITECTURE IMAGE HERE
-
-Example:
-
 ![Project Architecture](resources/project_architecture.png)
-```
-
-You can create an `images` folder in the repository and place your architecture diagram there:
 
 ```text
-fmcg-data-engineering-databricks/
+FMCG End-to-End Data Engineering Pipeline with Databricks/
 │
 ├── resources/
 │   ├── architecture.png
@@ -257,16 +247,6 @@ The overall pipeline can be summarized as:
 
 The processed Gold-layer data is used to generate business insights through dashboards.
 
-### Dashboard Preview
-
-> **Replace the placeholder below with your dashboard screenshot.**
-
-```text
-📌 ADD DASHBOARD IMAGE HERE
-
-![FMCG Dashboard](images/dashboard.png)
-```
-
 ### Example Dashboard Insights
 
 The dashboard can be used to analyze areas such as:
@@ -287,7 +267,7 @@ The dashboard can be used to analyze areas such as:
 ## 📂 Project Structure
 
 ```text
-fmcg-data-engineering-databricks/
+FMCG End-to-End Data Engineering Pipeline with Databricks/
 │
 ├── notebooks/
 │   ├── 01_data_ingestion
@@ -381,7 +361,7 @@ You will need:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/fmcg-data-engineering-databricks.git
+git clone https://github.com/Ahamed-Safnas/FMCG-End-to-End-Data-Engineering-Pipeline-with-Databricks
 ```
 
 2. Open your Databricks workspace.
@@ -433,8 +413,8 @@ Potential improvements include:
 Computer & Information Systems Engineering
 AI/ML Engineer | Data & AI Enthusiast
 
-* GitHub: `https://github.com/<your-username>`
-* LinkedIn: `https://linkedin.com/in/<your-profile>`
+* GitHub: `github.com/Ahamed-Safnas`
+* LinkedIn: `linkedin.com/in/ahamed-safnas-8a968723b `
 * Portfolio: `https://ahamedsafnas.com`
 
 ---
